@@ -11,7 +11,7 @@
     </p>
 
 <p align="center">
-  <img src="https://telegra.ph/file/831065146253ade66e36b.jpg">
+  <img src="">
 </p>
 
 ## <p align="center">DEPLOY TO HEROKU</p>
